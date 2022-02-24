@@ -1,2 +1,21 @@
-# vue-all-demo
-vue+antdv+axios+iview+router+vuex
+# yky
+
+> A Vue.js project
+
+## Build Setup
+vue初始项目 全家桶 工作实验demo
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
